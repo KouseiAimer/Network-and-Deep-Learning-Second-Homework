@@ -1,0 +1,33 @@
+# Data and generated binary artifacts
+dataset/
+*.pickle
+*.pkl
+*.npy
+*.npz
+best_models/
+saved_models/
+figs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local experiment outputs
+PartA/
+PartB/
+PartC/
+model_weight/
+model_weights_for_upload/
+
+# LaTeX / report build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# OS / editor
+.DS_Store
+.vscode/
