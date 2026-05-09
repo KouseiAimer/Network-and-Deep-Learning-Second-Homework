@@ -13,6 +13,7 @@ __pycache__/
 *.py[cod]
 
 # Local experiment outputs
+*.ipynb
 PartA/
 PartB/
 PartC/
